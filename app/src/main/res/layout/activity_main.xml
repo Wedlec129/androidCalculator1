@@ -29,7 +29,7 @@
         android:ems="10"
 
 
-        android:hint="@string/name_input_num2"
+        android:hint="@string/name_input_num1"
         android:inputType="number"
 
 
